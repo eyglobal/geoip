@@ -1,0 +1,8 @@
+# Geofeed for Example ISP
+# prefix,country,region,city,postal
+199.52.53.0/24,IN,KA,Bangalore,560001
+199.52.57.0/24,IN,KA,Bangalore,560001
+199.52.58.0/24,IN,KA,Bangalore,560001
+199.52.73.0/24,IN,HR,Gurgaon,122001
+199.52.74.0/24,IN,HR,Gurgaon,122001
+199.52.75.0/24,IN,HR,Gurgaon,122001
