@@ -1,0 +1,3 @@
+# Geofeed for Example ISP
+# prefix,country,region,city,postal
+203.2.0.0/19,AU,VIC,Melbourne,3000

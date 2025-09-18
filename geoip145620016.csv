@@ -1,0 +1,4 @@
+# Geofeed for Example ISP
+# prefix,country,region,city,postal
+145.62.0.0/16,DE,HE,Frankfurt am Main,60308
+

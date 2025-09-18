@@ -1,8 +1,8 @@
 # Geofeed for Example ISP
 # prefix,country,region,city,postal
-199.49.34.0/24,PH,PH-00,Taguig,1630
+199.49.34.0/24,PH,00,Taguig,1630
 199.49.0.0/22,DE,HE,Frankfurt am Main,60327
 199.49.35.0/24,CA,ON,Toronto,M5H2N2
-199.49.55.0/24,IN,KA,Bangalore,560001
+199.49.55.0/24,AU,VIC,Melbourne,3000
 199.49.85.0/24,CA,ON,Toronto,M5H2N2
 
